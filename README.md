@@ -1,0 +1,2 @@
+# entrydata
+away
